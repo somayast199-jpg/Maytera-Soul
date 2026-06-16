@@ -1,0 +1,6 @@
+{
+  "name": "maytera-seo-ai",
+  "description": "Premium AI-powered YouTube SEO assistant for music videos, generating CTR-optimized titles, smart descriptions, and detailed AI thumbnail prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
